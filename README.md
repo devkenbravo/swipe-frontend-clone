@@ -1,1 +1,3 @@
-# swipe-frontend-clone
+Cloned The @swipe.ng website
+
+
